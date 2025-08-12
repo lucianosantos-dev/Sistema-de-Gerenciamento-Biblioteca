@@ -1,6 +1,5 @@
 # 📚 Sistema de Gerenciamento de Biblioteca
 
-![Status](https://imgshields.io/badge/status-concluído-brightgreen)
 
 Projeto de um sistema de gerenciamento de biblioteca via console, desenvolvido em Java para aplicar e solidificar conceitos de Programação Orientada a Objetos.
 
@@ -40,23 +39,6 @@ O sistema permite ao usuário realizar as seguintes operações:
 * **Programação Orientada a Objetos (POO):** Base de toda a arquitetura do sistema.
 
 ---
-
-### 🚀 Como Executar o Projeto
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[SEU_USUARIO_GITHUB]/[NOME_DO_SEU_REPOSITORIO].git
-    ```
-2.  **Abra em sua IDE:**
-    * Abra o projeto em uma IDE Java como IntelliJ IDEA, Eclipse ou VS Code.
-3.  **Execute o arquivo principal:**
-    * Encontre o arquivo `Main.java` e execute o método `main`.
-
-O menu interativo aparecerá no console, pronto para ser usado.
-
----
-
-
 
 ### 👨‍💻 Autor
 
